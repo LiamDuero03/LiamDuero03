@@ -17,6 +17,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LiamDuero03&theme=react-dark&hide_border=true" />
 </p>
 
+## 🚀 Featured Projects
+- [5G Energy Analysis](https://github.com/LiamDuero03/5G-Energy-Analysis) – Machine learning for telecom energy efficiency.
+- [GrassRoots360](https://github.com/LiamDuero03/GrassRoots360-App) – Community sports app with Supabase + React Native.
+- [AI Prompt Manager](https://github.com/LiamDuero03/AI-Prompt-Manager) – Browser extension for managing AI prompts.
+
+
 ---
 
 ## 🌐 Socials
