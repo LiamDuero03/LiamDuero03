@@ -22,6 +22,22 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LiamDuero03&theme=react-dark&hide_border=true" />
 </p>
 
+
+![Visitor Map](https://visitormap.vercel.app/api/map?username=LiamDuero03)
+
+
+## 🧑‍💻 Skills Heatmap
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LiamDuero03&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LiamDuero03&theme=github_dark" />
+</p>
+
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LiamDuero03&theme=react-dark&hide_border=true&area=true&custom_title=My%20GitHub%20Activity%20Graph&days=365" />
+</p>
+
 ---
 
 ## 🌐 Socials
