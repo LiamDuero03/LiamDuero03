@@ -12,23 +12,6 @@
   <img src="https://github-readme-stats-gamma-eight-97.vercel.app/api/top-langs/?username=LiamDuero03&count_private=true&layout=compact&theme=cobalt" height="180"/>
 </p>
 
-
-
----
-
-## 🔝 Featured Repos
-<p align="center">
-  <img src="https://github-readme-stats-gamma-eight-97.vercel.app/api/pin/?username=LiamDuero03&repo=5G-Energy-Analysis&theme=cobalt&show_owner=true&count_private=true" />
-  <img src="https://github-readme-stats-gamma-eight-97.vercel.app/api/pin/?username=LiamDuero03&repo=GrassRoots360-App&theme=cobalt&show_owner=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-gamma-eight-97.vercel.app/api/pin/?username=LiamDuero03&repo=AI-Prompt-Manager&theme=cobalt&show_owner=true&count_private=true" />
-  <img src="https://github-readme-stats-gamma-eight-97.vercel.app/api/pin/?username=LiamDuero03&repo=Greater-Sydney-Analysis&theme=cobalt&show_owner=true&count_private=true" />
-</p>
-
-
-
 ---
 
 ## 🌐 Socials
