@@ -12,10 +12,7 @@
   <img src="https://github-readme-stats-gamma-eight-97.vercel.app/api/top-langs/?username=LiamDuero03&count_private=true&layout=compact&theme=cobalt" height="200"/>
 </p>
 
-## 🌍 Visitor Map
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LiamDuero03&theme=github_dark" />
-</p>
+
 
 
 <p align="center">
