@@ -6,15 +6,7 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-gamma-eight-97.vercel.app/api?username=LiamDuero03&count_private=true&include_all_commits=true&show_icons=true&theme=cobalt" height="180"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=LiamDuero03&theme=cobalt&hide_border=false" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-gamma-eight-97.vercel.app/api/top-langs/?username=LiamDuero03&count_private=true&layout=compact&theme=cobalt" height="150"/>
-</p>
+![GitHub stats](https://github-readme-stats-gamma-eight-97.vercel.app/api?username=LiamDuero03&count_private=true&include_all_commits=true&show_icons=true&theme=cobalt)
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LiamDuero03&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -23,12 +15,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LiamDuero03&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats-gamma-eight-97.vercel.app/api?username=LiamDuero03&count_private=true&include_all_commits=true&show_icons=true&theme=cobalt" height="180"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=LiamDuero03&theme=cobalt&hide_border=false" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiamDuero03&theme=cobalt&hide_border=false&layout=compact" height="150"/>
+  <img src="https://github-readme-stats-gamma-eight-97.vercel.app/api/top-langs/?username=LiamDuero03&count_private=true&layout=compact&theme=cobalt" height="150"/>
 </p>
 
 ---
