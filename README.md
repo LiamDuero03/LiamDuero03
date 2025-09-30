@@ -12,16 +12,15 @@
   <img src="https://github-readme-stats-gamma-eight-97.vercel.app/api/top-langs/?username=LiamDuero03&count_private=true&layout=compact&theme=cobalt" height="200"/>
 </p>
 
+## 🌍 Visitor Map
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LiamDuero03&theme=github_dark" />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LiamDuero03&theme=react-dark&hide_border=true" />
 </p>
-
-## 🚀 Featured Projects
-- [5G Energy Analysis](https://github.com/LiamDuero03/5G-Energy-Analysis) – Machine learning for telecom energy efficiency.
-- [GrassRoots360](https://github.com/LiamDuero03/GrassRoots360-App) – Community sports app with Supabase + React Native.
-- [AI Prompt Manager](https://github.com/LiamDuero03/AI-Prompt-Manager) – Browser extension for managing AI prompts.
-
 
 ---
 
