@@ -20,13 +20,6 @@
 
 ---
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/liam.duero) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/liam-d%C3%BCro-3a5b10253/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:liam.duero@gmail.com) 
-
----
-
 ## 💻 Tech Stack
 
 **Languages**  
@@ -61,6 +54,13 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 ---
+---
+
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/liam.duero) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/liam-d%C3%BCro-3a5b10253/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:liam.duero@gmail.com) 
+
 
 [![](https://visitcount.itsvg.in/api?id=LiamDuero03&icon=0&color=0)](https://visitcount.itsvg.in)  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
