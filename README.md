@@ -6,12 +6,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-gamma-eight-97.vercel.app/api?username=LiamDuero03&count_private=true&include_all_commits=true&show_icons=true&theme=cobalt&hide=contribs" height="200"/>
-  <img src="https://github-readme-stats-gamma-eight-97.vercel.app/api/top-langs/?username=LiamDuero03&count_private=true&layout=compact&theme=cobalt" height="200"/>
-</p>
-
 ## 🧑‍💻 Skills Heatmap
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LiamDuero03&theme=github_dark" />
