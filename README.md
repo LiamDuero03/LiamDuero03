@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Liam Düro  
+# 👋 Hi, I'm Liam
 
 🎓 MSc DSML @ UCL | Previously CS & Business @ Trinity  
 📡 Research in 5G networks, energy efficiency & ML  
@@ -6,7 +6,6 @@
 
 ---
 
-## 🧑‍💻 Skills Heatmap
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LiamDuero03&theme=gruvbox"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LiamDuero03&theme=gruvbox&langs_count=8&cache_bust=1" />
