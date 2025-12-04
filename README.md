@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Skills Heatmap
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LiamDuero03&theme=tokyo_night&langs_count=8&cache_bust=1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LiamDuero03&theme=tokyonight&langs_count=8&cache_bust=1" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LiamDuero03&theme=github_dark&langs_count=8&cache_bust=1" />
 </p>
 
