@@ -9,8 +9,8 @@
 ## 🧑‍💻 Skills Heatmap
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LiamDuero03&theme=gruvbox"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LiamDuero03&theme=zenburn&langs_count=8&cache_bust=1" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LiamDuero03&theme=zenburn&langs_count=8&cache_bust=1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LiamDuero03&theme=gruvbox&langs_count=8&cache_bust=1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LiamDuero03&theme=gruvbox&langs_count=8&cache_bust=1" />
 </p>
 
 ---
