@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Liam
+# Hi, I'm Liam
 
 🎓 MSc DSML @ UCL | Previously CS & Business @ Trinity  
 📡 Research in 5G networks, energy efficiency & ML  
@@ -14,7 +14,7 @@
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -50,7 +50,7 @@
 
 ---
 
-## 🌐 Socials
+##  Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/liam.duero) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/liam-d%C3%BCro-3a5b10253/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:liam.duero@gmail.com) 
