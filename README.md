@@ -8,8 +8,8 @@
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LiamDuero03&theme=transparent"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LiamDuero03&theme=transparent&langs_count=8&cache_bust=1" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LiamDuero03&theme=transparent&langs_count=8&cache_bust=1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LiamDuero03&theme=transparent&langs_count=8&cache_bust=1&exclude=html,css,shell" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LiamDuero03&theme=transparent&langs_count=8&cache_bust=1&exclude=html,css,shell" />
 </p>
 
 ---
