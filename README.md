@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=LiamDuero03"/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LiamDuero03&langs_count=4"/>
-  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6"/>
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=LiamDuero03&langs_count=6"/>
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LiamDuero03&theme=transparent"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LiamDuero03&theme=transparent&langs_count=8&cache_bust=1&exclude=html,css,shell" />
