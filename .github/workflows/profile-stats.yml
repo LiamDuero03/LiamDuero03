@@ -1,8 +1,8 @@
 name: Generate Profile Stats
 on:
-  # Runs daily at midnight
+  push:
+    branches: [main] # This forces it to run the second you push!
   schedule: [{cron: "0 0 * * *"}]
-  # Allows you to manually trigger it anytime from the Actions tab
   workflow_dispatch:
 jobs:
   github-metrics:
