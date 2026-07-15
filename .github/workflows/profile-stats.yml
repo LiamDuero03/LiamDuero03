@@ -19,7 +19,7 @@ jobs:
           # Options
           user: LiamDuero03
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, metadata
           config_timezone: Europe/London
           
           # Private repositories access
