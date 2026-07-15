@@ -9,7 +9,7 @@
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LiamDuero03/LiamDuero03/main/github-metrics.svg" alt="GitHub Stats"  />
+  <img src="https://raw.githubusercontent.com/LiamDuero03/LiamDuero03/main/github-metrics.svg" alt="GitHub Stats" />
   <img src="https://raw.githubusercontent.com/LiamDuero03/LiamDuero03/main/github-metrics-wakatime.svg" alt="WakaTime Stats"  />
 
 </p>
