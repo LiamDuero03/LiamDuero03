@@ -1,7 +1,7 @@
 # Hi, I'm Liam
 
-🎓 MSc DSML @ UCL | Previously CS & Business @ Trinity  
-📡 Research in 5G networks, energy efficiency & ML  
+🎓 Machine Learning Reearch @ UCL | Previously CS & Business @ Trinity  
+📡 Research in 5G networks, ML evaluation and trustworthy AI          
 🌐 Passionate about AI & sustainable tech  
 
 ---
@@ -10,8 +10,6 @@
 
 <p >
   <img src="https://raw.githubusercontent.com/LiamDuero03/LiamDuero03/main/github-metrics.svg" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/LiamDuero03/LiamDuero03/main/github-metrics-wakatime.svg" alt="WakaTime Stats"  />
-
 </p>
 
 ---
